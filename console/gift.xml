@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gift xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="gift.xsd">
+
+    <game type="BoardGame" name="Monopoliya" weight="0.85" price="5500.00">
+        <attribute name="minPlayers">2</attribute>
+    </game>
+    
+    <game type="SoftToy" name="Jumsak Ayu" weight="0.45" price="4000.00">
+        <attribute name="material">Poliester</attribute>
+    </game>
+    
+    <game type="BoardGame" name="Shakhmat" weight="1.10" price="8000.00">
+        <attribute name="minPlayers">2</attribute>
+    </game>
+    
+</gift>

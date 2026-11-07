@@ -1,0 +1,15 @@
+target/
+*.class
+*.jar
+*.war
+.idea/
+*.iml
+.vscode/
+.env
+.env.*
+!.env.example
+node_modules/
+*.db
+__pycache__/
+.venv/
+.vercel/

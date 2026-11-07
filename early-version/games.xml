@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games>
+    <game type="Puzzle" name="Лего мини-пазл" weight="300" age="6" duration="20"/>
+    <game type="Board" name="Ходилки" weight="500" age="7" duration="40"/>
+    <game type="Action" name="Пистолетик" weight="250" age="5" duration="10"/>
+</games>
